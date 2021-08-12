@@ -8,6 +8,7 @@ alias llog='git llog'
 alias xclip='xclip -sel clip'
 
 #enable python3
-alias py='python3'
+alias python='python3'
 
-
+#thefuck
+alias fuck='thefuck'
