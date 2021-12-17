@@ -7,8 +7,9 @@ alias llog='git llog'
 #copy from terminal
 alias xclip='xclip -sel clip'
 
-#enable python3
+#enable python3 and pip3
 alias python='python3'
+alias pip='pip3'
 
 #thefuck
 alias fuck='thefuck'
