@@ -13,3 +13,6 @@ alias pip='pip3'
 
 #thefuck
 alias fuck='thefuck'
+
+#docker stuff
+alias dc=docker-compose
