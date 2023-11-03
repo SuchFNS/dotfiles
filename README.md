@@ -6,3 +6,4 @@
 	Use command `ln -nfs <path to dotfiles folder>/filename /home/<user>/filename`
 3. Reboot ~/.bashrc with `. ~/.bashrc`
 
+To use the .gitconfig, run `git config --global include.path "$PWD/.gitconfig"`
